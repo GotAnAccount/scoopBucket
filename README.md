@@ -1,2 +1,2 @@
 # scoopBucket
-scoop bucket iwth additional apps
+scoop bucket with additional apps
