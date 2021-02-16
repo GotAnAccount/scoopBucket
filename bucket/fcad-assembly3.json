@@ -10,10 +10,10 @@
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse -Force",
-    "bin": "FreeCAD-asm3-Daily-Win64-Py3-Qt5-20210205\\bin\\FreeCADCmd.exe",
+    "bin": "FreeCAD-asm3-Daily-Win64-Py3-Qt5-20210205\\bin\\FreeCADLink.exe",
     "shortcuts": [
         [
-            "FreeCAD-asm3-Daily-Win64-Py3-Qt5-20210205\\bin\\FreeCAD.exe",
+            "FreeCAD-asm3-Daily-Win64-Py3-Qt5-20210205\\bin\\FreeCADLink.exe",
             "FreeCAD 0.11 Assembly3"
         ]
     ],
